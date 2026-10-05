@@ -10,7 +10,7 @@ public class StudiKasus09 {
 
 
 
-                System.out.print("Masukkan jumlah kopi yang dibeli: ");
+        System.out.print("Masukkan jumlah kopi yang dibeli: ");
         int jumlahCup = input.nextInt();
 
         int totalBelanja = jumlahCup * HARGA_PER_CUP;
